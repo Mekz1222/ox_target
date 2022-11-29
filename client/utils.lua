@@ -41,8 +41,8 @@ if GetConvarInt('ox_target:drawSprite', 1) == 1 then
     local ClearDrawOrigin = ClearDrawOrigin
     local dict = 'shared'
     local texture = 'emptydot_32'
-    local colour = { 155, 155, 155, 175 }
-    local hover = { 98, 135, 236, 255 }
+    local colour = { 0,0,0, 175 }
+    local hover = { 255, 255, 255, 255 }
 
     function DrawSprites()
         local inRange

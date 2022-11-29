@@ -1,7 +1,9 @@
 UI edit to ox_target
 
 **Showcase video**
-https://streamable.com/e/esymen
+
+https://user-images.githubusercontent.com/53654750/204571950-6b5314e2-3eea-4d17-af01-9c9892132d3c.mp4
+
 
 <div align='center'><h2><a href='https://overextended.github.io/docs/ox_target/'>Documentation</a></h2></div>
 
